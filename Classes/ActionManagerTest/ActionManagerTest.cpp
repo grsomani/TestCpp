@@ -2,6 +2,8 @@
 #include "../testResource.h"
 #include "cocos2d.h"
 
+//Just Adding a few comments to check how to take updates of changed code
+
 enum 
 {
     kTagNode,
