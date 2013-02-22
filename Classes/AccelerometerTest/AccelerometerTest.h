@@ -3,6 +3,8 @@
 
 #include "../testBasic.h"
 
+//Just Adding a few comments to check how to take updates of changed code
+
 USING_NS_CC;
 
 class AccelerometerTest: public CCLayer
