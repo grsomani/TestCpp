@@ -213,6 +213,7 @@
 		78C7DFF614EBA5060085D0C2 /* music.mid in Resources */ = {isa = PBXBuildFile; fileRef = 78C7DEBD14EBA5060085D0C2 /* music.mid */; };
 		78CAE769156F8124002A7A68 /* Particles in Resources */ = {isa = PBXBuildFile; fileRef = 78CAE768156F8124002A7A68 /* Particles */; };
 		78ED2F85153D5BC500330E29 /* extensions in Resources */ = {isa = PBXBuildFile; fileRef = 78ED2F84153D5BC500330E29 /* extensions */; };
+		BC6BE4C918445B100082051E /* SMS_Screen2.PNG in Resources */ = {isa = PBXBuildFile; fileRef = BC6BE4C818445B100082051E /* SMS_Screen2.PNG */; };
 		BF171245129291EC00B8313A /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF170DB012928DE900B8313A /* OpenGLES.framework */; };
 		BF1712461292920000B8313A /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = BF170DB212928DE900B8313A /* libxml2.dylib */; };
 		BF1712471292920000B8313A /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = BF170DB412928DE900B8313A /* libz.dylib */; };
@@ -711,6 +712,7 @@
 		78C7DEBD14EBA5060085D0C2 /* music.mid */ = {isa = PBXFileReference; lastKnownFileType = audio.midi; path = music.mid; sourceTree = "<group>"; };
 		78CAE768156F8124002A7A68 /* Particles */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Particles; sourceTree = "<group>"; };
 		78ED2F84153D5BC500330E29 /* extensions */ = {isa = PBXFileReference; lastKnownFileType = folder; path = extensions; sourceTree = "<group>"; };
+		BC6BE4C818445B100082051E /* SMS_Screen2.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SMS_Screen2.PNG; sourceTree = "<group>"; };
 		BF170DB012928DE900B8313A /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		BF170DB212928DE900B8313A /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
 		BF170DB412928DE900B8313A /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
@@ -1936,6 +1938,7 @@
 		78C7DDAA14EBA5050085D0C2 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				BC6BE4C818445B100082051E /* SMS_Screen2.PNG */,
 				15D255A215E61F01000D5E89 /* fps_images.png */,
 				15D2551915E5FD6B000D5E89 /* ipad */,
 				15BA623415E4EAD7002BC3A5 /* ipadhd */,
@@ -2112,6 +2115,7 @@
 				78C7DEFD14EBA5060085D0C2 /* effect1.raw in Resources */,
 				78C7DEFE14EBA5060085D0C2 /* effect1.wav in Resources */,
 				78C7DEFF14EBA5060085D0C2 /* effect2.ogg in Resources */,
+				BC6BE4C918445B100082051E /* SMS_Screen2.PNG in Resources */,
 				78C7DF2714EBA5060085D0C2 /* Hello.png in Resources */,
 				78C7DFF614EBA5060085D0C2 /* music.mid in Resources */,
 				789B560D15197BE00038CD1E /* animations in Resources */,
